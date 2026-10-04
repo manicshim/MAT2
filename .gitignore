@@ -1,0 +1,23 @@
+# Hardhat files
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+.config/
+.data/
+.cache/
+
+# Commonly ignored directories
+.logs/
+.ignore/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env.*
+!.env.example
+.env
+node_modules
